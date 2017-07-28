@@ -66,7 +66,7 @@ while True:
 
 		if len(valid_messages) != 0:
 			print('Got valid reply for enrollment')
-			continue
+			break
 		else:
 			print('No valid reply yet for enrollment, waiting')
 
