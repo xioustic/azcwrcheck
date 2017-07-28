@@ -1,0 +1,6 @@
+{
+  "account_sid": "twilio_account_sid_here",
+  "auth_token": "twilio_auth_token_here",
+  "target_number": "range_number_here",
+  "from_number": "twilio_from_number_here"
+}
